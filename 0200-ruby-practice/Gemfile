@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+ruby "4.0.7"
+
+gem "rspec-core", "~> 3.13"
+gem "rspec-expectations", "~> 3.13"
