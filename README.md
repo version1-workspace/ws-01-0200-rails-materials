@@ -2,6 +2,11 @@
 
 Ruby・Rails の基礎から、API 開発、非同期処理、クラウドへのデプロイ、モダンな Web アプリケーション開発までを段階的に学ぶ教材です。
 
+## リポジトリの役割
+
+- [ws-01-0200-rails-materials](https://github.com/version1-workspace/ws-01-0200-rails-materials) に、各課題の進め方を記載します。
+- [ws-01-0200-rails-materials-impl](https://github.com/version-1/ws-01-0200-rails-materials-impl) に、各課題に対応するサンプル実装を置きます。
+
 ## 課題一覧
 
 番号順に取り組んでください。各段階のリンク先に、やること・学ぶこと・参考資料をまとめています。
